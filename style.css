@@ -1,0 +1,57 @@
+
+.image{
+   width: 70px;
+   padding: 5px;
+   margin: 10px;
+   background: white;
+   filter: brightness(200%);
+   border: none;
+  }
+  .help_header{
+      float: left;
+      margin-top: -15px;
+      font-family: 'Courier New', Courier, monospace;
+  }
+  /* #statistic{
+  text-align: center;
+} */
+.table {
+	display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+  
+}#cos{
+    margin-top: 20px;
+}
+.container{
+    height: 80%;
+    text-align: center;
+    border: none;
+    border: 1px solid green;
+    color: white;
+    margin-top: 20px;
+    /* background-image: url(cor.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgb(4, 41, 4);
+}
+#styyle{
+	text-align: justify;
+	list-style: none;
+    padding-top: 20px;
+    margin-left: 8%;
+    display: inline;
+	}
+    .dox{
+        padding-top: 15px; 
+        border: none;
+        width: 50em;
+        list-style: none;
+        
+    }
+    .display{
+        text-align: center;
+    }
+    .run{
+        margin-left: 20%;
+        text-align: justify;
+    }
